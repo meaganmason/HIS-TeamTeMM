@@ -1,0 +1,45 @@
+.nav {
+  font-size: 30px; 
+}
+
+.nav a {
+  padding: 40px;
+  font-size: 40px;
+  text-decoration: none;
+  color: #565656;
+  border-radius: 30px;   
+}
+
+.head{
+  background-color: #F5F4F4;
+}
+
+ .backpic {
+   position: fixed;
+   opacity: 0.4;
+   top:29%;
+   bottom: 0;
+   left:0;
+   right:0;
+   height:100%;
+   width:100%;
+  }
+
+.sentence {
+  font-size: 25px;
+
+}
+
+  
+
+ .footer {
+padding-top: 175px;
+  font-size: 40px;
+  color: #ba2323;
+
+}
+
+.services {
+  font-size: 90px;
+}
+

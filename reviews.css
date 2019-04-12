@@ -1,0 +1,36 @@
+.nav {
+  font-size: 30px; 
+}
+
+.nav a {
+  padding: 40px;
+  font-size: 40px;
+  text-decoration: none;
+  color: #565656;
+  border-radius: 30px;   
+}
+
+.head{
+  background-color: #F5F4F4;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+h2{
+  padding-top: 30px;
+  font-size: 50px;
+}
+
+p{
+  font-size: 30px;
+}
+
+
+ .footer {
+padding-top: 175px;
+  font-size: 40px;
+  color: #ba2323;
+
+}

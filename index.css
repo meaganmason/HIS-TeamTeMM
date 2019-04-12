@@ -1,0 +1,41 @@
+h1 {
+  font-size: 90px;
+}
+
+ul  {
+  font-size: 60px;
+  word-spacing: 50px;
+  color: #ba2323;
+}
+
+body {
+  background-color: white;
+}
+
+.nav {
+  font-size: 40px; 
+}
+
+.nav a {
+  padding: 40px;
+  text-decoration: none;
+  color: #565656;
+  border-radius: 30px;   
+}
+
+.head{
+  background-color: #F5F4F4;
+}
+
+.logo{
+  padding-top: 75px;
+}
+
+ .footer {
+padding-top: 175px;
+  font-size: 40px;
+  color: #ba2323;
+
+}
+
+
